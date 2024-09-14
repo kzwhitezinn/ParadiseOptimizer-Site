@@ -1,6 +1,6 @@
 ### Descrição do Site - Paradise Optimizer
 
-- O site Paradise Optimizer foi desenvolvido com um design clean e funcional para proporcionar uma experiência de usuário imersiva e eficiente. Criado por KZWhiteZinn, o site destaca-se pela sua simplicidade e eficácia, refletindo nossa missão de otimizar o desempenho dos computadores dos nossos clientes.
+- O site Paradise Optimizer foi desenvolvido com um design clean e funcional para proporcionar uma experiência de usuário imersiva e eficiente. Criado por kzWhitezinn, o site destaca-se pela sua simplicidade e eficácia, refletindo nossa missão de otimizar o desempenho dos computadores dos nossos clientes.
 
 ### Características Principais:
 - Fundo de Vídeo Imersivo: O site apresenta um vídeo de fundo que é reproduzido automaticamente, em mudo e em loop, proporcionando uma atmosfera moderna e envolvente. O filtro de desfoque e brilho ajustado garante que o conteúdo textual permaneça claro e legível.
@@ -13,5 +13,5 @@
 
 <h3 align="center"><i>Optimizer</i></h3>
 <p align="center">
-<img src="https://github.com/kzwhitezinn/ParadiseOptimizerV.5/blob/main/CaptureOptimizer.PNG"/>
+<img src="https://github.com/kzwhitezinn/ParadiseOptimizer-Site/blob/main/Capture.PNG"/>
 </p>

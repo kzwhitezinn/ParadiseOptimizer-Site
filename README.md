@@ -11,7 +11,7 @@
 
 - Design Responsivo: O layout é projetado para ser visualmente atraente em qualquer dispositivo, garantindo uma navegação fluida tanto em desktops quanto em dispositivos móveis.
 
-<h3 align="center"><i>Optimizer</i></h3>
+<h3 align="center"><i>Site Preview</i></h3>
 <p align="center">
 <img src="https://github.com/kzwhitezinn/ParadiseOptimizer-Site/blob/main/Capture.PNG"/>
 </p>
